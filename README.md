@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janbor2YNG
+- 👋 Hi, I’m @PeterD.Anonym
 - 👀 I’m interested in Programming, 3D/2D Design and Politics
 - 🌱 I’m currently learning Java, Python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on cool projects with cool people!
